@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niresh Shrestha</h1>
 <h3 align="center">A passionate Frontend and WordPress developer from Nepal</h3>
 
-- 👨‍💻 All of my projects are available at [www.niresh.com.np](www.niresh.com.np)
+- 👨‍💻 All of my projects are available at [https://www.niresh.com.np](niresh.com.np)
 
-- 📝 I regularly write articles on [www.dewebkiller.com](www.dewebkiller.com)
+- 📝 I regularly write articles on [https://www.dewebkiller.com](dewebkiller.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
