@@ -7,20 +7,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://profiles.wordpress.org/dewebkiller" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40" style="display:inline !important;">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="display:inline !important;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <span style="display: inline-block;">
+    <a href="https://profiles.wordpress.org/dewebkiller" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="40" height="40" />
+    </a>
+  </span>
+  <span style="display: inline-block;">
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+    </a>
+  </span>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://profiles.wordpress.org/dewebkiller" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></p>
