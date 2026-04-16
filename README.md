@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niresh Shrestha</h1>
-<h3 align="center">A passionate Frontend and WordPress developer from Nepal</h3>
+<h3 align="center">A passionate Frontend and WordPress developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.niresh.com.np](https://www.niresh.com.np)
 
