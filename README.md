@@ -6,10 +6,7 @@
 - 📝 I regularly write articles on [https://www.dewebkiller.com](https://www.dewebkiller.com)
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://profiles.wordpress.org/dewebkiller" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  </div>
+<p align="left"><a href="https://profiles.wordpress.org/dewebkiller" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
